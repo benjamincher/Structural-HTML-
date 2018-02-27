@@ -1,0 +1,33 @@
+html {
+	background-color: #ffffff;
+	font-size: 100%;
+}
+h1 {
+	font-family: 'Megrim', cursive;
+	color: #EC5D5D;
+	width: 25%;
+	line-height: 1;
+	font-size: 34pt;
+}
+h2 {
+	font-family: 'Crimson Text', serif;
+	color: #000000;
+	text-decoration: underline
+}
+article {
+	font-family: 'Crimson Text', serif;
+	line-height: 1.4;
+	color: #000000
+}
+a:link {
+	color: #000000;
+}
+a:visited {
+	color: #0000FF;
+}
+a:hover {
+	color: #FF00FF;
+}
+a:active {
+	color: #0000FF;
+}
